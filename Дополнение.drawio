@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 18_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Mobile/15E148 Safari/604.1" version="26.0.11">
+  <diagram name="Страница — 1" id="IwFqt52ahT5ydKw72tMR">
+    <mxGraphModel dx="1180" dy="991" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E7Nm4ZpFqWxObTJ8l9QG-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="E7Nm4ZpFqWxObTJ8l9QG-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="39" y="119.61931818181824" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E7Nm4ZpFqWxObTJ8l9QG-1" value="Аналитический&amp;nbsp;&lt;div&gt;Блок&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-147" y="104" width="126" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="_f0yY53JQf6CxHbqkBX3-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" target="_f0yY53JQf6CxHbqkBX3-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="92.38121546961327" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f0yY53JQf6CxHbqkBX3-1" value="Дополнительный&lt;div&gt;Анализ&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="20.5" y="-91.5" width="147" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_f0yY53JQf6CxHbqkBX3-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="_f0yY53JQf6CxHbqkBX3-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-21" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f0yY53JQf6CxHbqkBX3-11" value="Оценка&lt;div&gt;Кредитных&lt;/div&gt;&lt;div&gt;Рисков&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="58.5" y="71.5" width="102" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="_f0yY53JQf6CxHbqkBX3-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="_f0yY53JQf6CxHbqkBX3-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-360.0909090909091" y="495.90909090909076" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f0yY53JQf6CxHbqkBX3-13" value="Блок принятия решений ( был раньше ₽" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-264.5" y="333.5" width="319" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="_f0yY53JQf6CxHbqkBX3-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.27;entryY=0.664;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="_f0yY53JQf6CxHbqkBX3-1" target="_f0yY53JQf6CxHbqkBX3-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f0yY53JQf6CxHbqkBX3-16" value="( воврашяется к клиенту ( банк, приложение, сайт )" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-687.5" y="525.5" width="411" height="31" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
